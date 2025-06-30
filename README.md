@@ -1,4 +1,4 @@
-<h1 align="center">Ciao 👋, I'm Shayan Das</h1>
+![MasterHead](https://github.com/shayanCR07/shayanCR07/blob/b86a594426ebfa7146ba6ab200af68767ba6f7a2/github-header-image.png)
 <h3 align="center">A would be full stack web developer from Kolkata, India.</h3>
 
 # 💫 About Me:
